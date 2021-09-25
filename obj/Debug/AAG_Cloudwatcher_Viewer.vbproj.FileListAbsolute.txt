@@ -1,0 +1,11 @@
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Debug\AAG_Cloudwatcher_Viewer.exe.config
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Debug\AAG_Cloudwatcher_Viewer.exe
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Debug\AAG_Cloudwatcher_Viewer.pdb
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Debug\AAG_Cloudwatcher_Viewer.xml
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Debug\AAG_Cloudwatcher_Viewer.MainForm.resources
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Debug\AAG_Cloudwatcher_Viewer.Resources.resources
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Debug\AAG_Cloudwatcher_Viewer.vbproj.GenerateResource.cache
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Debug\AAG_Cloudwatcher_Viewer.vbproj.CoreCompileInputs.cache
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Debug\AAG_Cloudwatcher_Viewer.exe
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Debug\AAG_Cloudwatcher_Viewer.xml
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Debug\AAG_Cloudwatcher_Viewer.pdb

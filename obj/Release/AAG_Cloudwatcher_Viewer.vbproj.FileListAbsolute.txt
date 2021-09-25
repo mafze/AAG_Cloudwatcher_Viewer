@@ -1,0 +1,48 @@
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.exe.config
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.exe
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.pdb
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.xml
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.MainForm.resources
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.Resources.resources
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.vbproj.GenerateResource.cache
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.vbproj.CoreCompileInputs.cache
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.exe
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.xml
+c:\users\afzelius\source\repos\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.pdb
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.exe.config
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.exe
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.pdb
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.xml
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.MainForm.resources
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.Resources.resources
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.vbproj.GenerateResource.cache
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.exe
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.xml
+C:\Users\afzelius\Documents\Visual Studio 2017\Projects\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.pdb
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.exe.config
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.exe
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.pdb
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.GraphForm.resources
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.GraphSettingsForm.resources
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.MainForm.resources
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.Resources.resources
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.vbproj.GenerateResource.cache
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.exe
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.xml
+C:\Users\afzelius\Dropbox\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.pdb
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.exe.config
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.exe
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.pdb
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\bin\Release\AAG_Cloudwatcher_Viewer.xml
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.GraphForm.resources
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.GraphSettingsForm.resources
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.MainForm.resources
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.Resources.resources
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.vbproj.GenerateResource.cache
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.vbproj.CoreCompileInputs.cache
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.exe
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.xml
+D:\GoogleDrive\Astro\Soft dev\AAG_Cloudwatcher_Viewer\AAG_Cloudwatcher_Viewer\obj\Release\AAG_Cloudwatcher_Viewer.pdb
